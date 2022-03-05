@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+.Формат-занятий{
+    width: 50%;
+}
+.first-container{
+    display: flex;
+    justify-content: space-between;
+}
+.Вебинары{
+    font-family: 'Roboto', sans-serif;
+    width: 172px;
+    height: 63px;
+    font-size: 17px;
+}
+.Доступ-навсегда{
+    font-family: 'Roboto', sans-serif;
+    width: 172px;
+    height: 63px;
+    font-size: 17px;
+}
+
+.Общение{
+    font-family: 'Roboto', sans-serif;
+    width: 172px;
+    height: 63px;
+    font-size: 17px;
+}
+.container-second{
+    font-size: 40px;
+    font-weight: 600;
+    margin-top: 100px;
+}
+p{
+    color:  #1E4681;
+    
+}
+li{
+    font-size: 19px;
+}
+/* @media only screen and (max-width) */
